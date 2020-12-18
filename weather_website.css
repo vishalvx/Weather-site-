@@ -1,0 +1,22 @@
+h3{
+    color: White;
+}
+#result, #history, #input {
+    max-width: 400px;
+    margin: 10px auto;
+}
+#body{
+    background-image:none;
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+    right: 0px;
+    z-index: -1;
+
+}
+.card-body{
+    z-index: 1;
+}
